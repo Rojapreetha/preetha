@@ -12,7 +12,7 @@ class Ideone
 		// your code goes here
 		Scanner in=new Scanner(System.in);
 		int t,i;
-		t=in.nextInt();
+	//	t=in.nextInt();
 		int a[]=new int[t];
 		System.out.println(t);
 		for(i=0;i<t;i++)
